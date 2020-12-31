@@ -7,6 +7,11 @@ call vundle#begin()
 
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
+Plugin 'valloric/youcompleteme'
+Plugin 'kien/ctrlp.vim'
+Plugin 'davidhalter/jedi-vim'
+Plugin 'morhetz/gruvbox'
+Plugin 'powerline/powerline'
 
 call vundle#end()            " required
 
